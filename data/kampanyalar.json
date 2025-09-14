@@ -1,0 +1,46 @@
+[
+  {
+    "id": "ifd-258-5-1w-gaz-yakma-otomati",
+    "name": "IFD Gaz Yakma Otomatı",
+    "thumbnail": "models/IFD-TZI/IFD 258-5_1W Gaz Yakma Otomatı.jpg",
+    "model_path": "models/IFD-TZI/IFD 258-5_1W Gaz Yakma Otomatı.glb",
+    "tech_specs": [
+      { "label": "KAMPANYA", "value": "%30 İNDİRİM" },
+      { "label": "AÇIKLAMA", "value": "EN 746-2 uyarınca sürekli çalışmada sınırsız kapasiteli doğrudan ateşlemeli brülörler için alev kesintisi durumunda anında arıza kilitleme veya yeniden başlatma anahtarlanabilir bir işlev olarak sunulmakta, UV sensörü veya iyonizasyon sensörü ile alev kontrolü sağlanmakta, entegre ateşlemeli IFD 258..I sayesinde sahada yerden tasarruf sağlayan bir kurulum yapılabilmekte ve ayrıca program durumu, arıza kodları ile alev sinyali yoğunluğu için ekran desteği bulunmaktadır." }
+    ],
+    "sub_parts": []
+  },
+  {
+    "id": "tzi-8-12-100we-atesleme-trafosu",
+    "name": "TZI Ateşleme Trafosu",
+    "thumbnail": "models/IFD-TZI/TZI 8-12_100WE Ateşleme Trafosu.jpg",
+    "model_path": "models/IFD-TZI/TZI 8-12_100WE Ateşleme Trafosu.glb",
+    "tech_specs": [
+      { "label": "KAMPANYA", "value": "%30 İNDİRİM" },
+      { "label": "AÇIKLAMA", "value": "Gaz brülörlerinin elektrikli ateşlemesini sağlayan sistem, tek elektrotla hem ateşleme hem de brülör kontrolünün yapılmasına imkân tanır." }
+    ],
+    "sub_parts": []
+  },
+  {
+    "id": "ic-20-30w3e-servomotor",
+    "name": "IC 20 Servomotor",
+    "thumbnail": "models/IC/IC 20-30W3E Servomotor.jpg",
+    "model_path": "models/IC/IC 20-30W3E Servomotor.glb",
+    "tech_specs": [
+      { "label": "KAMPANYA", "value": "%30 İNDİRİM" },
+      { "label": "AÇIKLAMA", "value": "Otomatik ve Manuel mod arasında kolay geçiş imkânı sunan sistem, dışarıdan okunabilen konum göstergesi ve üç noktalı adım kontrolü ile donatılmıştır; IC 20..E modeli ayrıca sürekli kontrol ve elektronik konumlandırma işlevi sağlar, IC 20 kontrol elemanına monte edilmiş olarak teslim edilebilir ve sinyal kesintisi durumunda ayarlanabilir senaryolarla güvenilir çalışma sunar." }
+    ],
+    "sub_parts": []
+  },
+  {
+    "id": "uvs-10-dg0g1-fotosel",
+    "name": "UVS 10 Fotosel",
+    "thumbnail": "models/UVS/UVS 10D0G1 Fotosel.jpg",
+    "model_path": "models/UVS/UVS 10D0G1 Fotosel.glb",
+    "tech_specs": [
+      { "label": "KAMPANYA", "value": "%30 İNDİRİM" },
+      { "label": "AÇIKLAMA", "value": "Gün ışığına, kızılötesi radyasyona ve akkor ampullere karşı duyarsızlığı sayesinde parazitlere karşı neredeyse tam bağışıklık sağlayan sistem, alev sinyal kablosundaki kesinti veya kısa devreye karşı koruma ile maksimum güvenlik sunar; sağlam tasarımı sayesinde endüstriyel ihtiyaçlara uygun olup Kromschröder otomatik brülör kontrol üniteleri ve brülör kontrol üniteleri ile birlikte EN 298 gerekliliklerine uygundur." }
+    ],
+    "sub_parts": []
+  }
+]
