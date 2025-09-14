@@ -1,0 +1,80 @@
+[
+  {
+    "id": "6-yakicili-galvaniz-ocagi-yakma-sistemi",
+    "name": "6 Yakıcılı Galvaniz Ocağı Yakma Sistemi",
+    "thumbnail": "images/6-yakicili-galvaniz-ocagi-yakma-sistemi.jpg",
+    "model_path": "models/PROJELER/6 Yakıcılı Galvaniz Ocağı Yakma Sistemi/24020000.glb",
+    "tech_specs": [
+      { "label": "KAPASİTE", "value": "1380kW" },
+      { "label": "AÇIKLAMA", "value": "Galvaniz ocağı prosesi için 6 adet bekten oluşan yakma sistemidir. Sistem 2 bölge olarak kontrol edilmektedir. Tüm bekler hassas kontrollü servo motorlarla oransal kontrol edilmektedir. Sistemde silisyum karbür namlularla yüksek hızlı alev oluşturularak sistemdeki sıcaklık dağılımı en iyi şekilde homojenize edilmektedir. Önder imalat kontrol panosu ile sistem kontrol edilmektedir. İçerisinde 12inç kontrol paneli ile kolay kullanım imkanı sunar. Operatör paneline adım programı yazılarak prosesine özel reçeteler oluşturabilirsiniz." }
+    ],
+    "sub_parts": []
+  },
+  {
+    "id": "630-kw-sicak-hava-ureteci",
+    "name": "630 kW Sıcak Hava Üreteci",
+    "thumbnail": "models/PROJELER/630 kW Sıcak Hava Üreteci/2024017_Sıcak Hava Üret.jpg",
+    "model_path": "models/PROJELER/630 kW Sıcak Hava Üreteci/2024017_Sıcak Hava Üret.glb",
+    "tech_specs": [
+      { "label": "AÇIKLAMA", "value": "Proses ihtiyacına göre, direkt veya indirekt sıcak hava üreteçleri, PLC sistemlerinizle haberleşecek şekilde imal edilir. Debi ve sıcaklık taleplerinize istinaden Kromschröder ve Eclipse markaların yakıcı ve komponentleri ile tasarlanan üreteçler, İzmit'te imal edilir ve tesisinizde derveye alınır." }
+    ],
+    "sub_parts": []
+  },
+  {
+    "id": "dogalgaz-kontrol-hatti",
+    "name": "Doğalgaz Kontrol Hattı",
+    "thumbnail": "images/24020000.jpg",
+    "model_path": "models/PROJELER/Doğalgaz Kontrol Hattı/Doğalgaz Kontrol Hattı Genel Görünüm.glb",
+    "tech_specs": [
+      { "label": "TÜR", "value": "Kontrol Hattı" },
+      { "label": "AÇIKLAMA", "value": "Sisteminizin en kritik yeri olan hava ve gaz kontrol hattını en iyi şekilde bu panel üzerinden izleyebilirsiniz." }
+    ],
+    "sub_parts": []
+  },
+  {
+    "id": "kamara-tipi-firin-revizyonu",
+    "name": "Kamara Tipi Fırın Revizyonu",
+    "thumbnail": "images/Kamara Tipi Fırın Reviyonu Genel Görünüm_Render_001.jpg",
+    "model_path": "models/PROJELER/Kamara Tipi Fırın Revizyonu/Kamara Tipi Fırın Reviyonu Genel Görünüm.glb",
+    "tech_specs": [
+      { "label": "TÜR", "value": "Fırın Revizyonu" },
+      { "label": "AÇIKLAMA", "value": "Verimsiz haldeki yakma sistemi kumanda panosu dahil merkezi reküperatör ile daha verimli hale getirilerek sistemin entegrasyonu yapıldı." }
+    ],
+    "sub_parts": []
+  },
+  {
+    "id": "maldaner-s-tipi-tesis",
+    "name": "Maldaner S Tipi Tesis",
+    "thumbnail": "images/Maldaner S Tipi Tesis Genel Görünüm_Render_001.JPG",
+    "model_path": "models/PROJELER/Maldaner S Tipi Tesis/Maldaner S Tipi Tesis Genel Görünüm_002.glb",
+    "tech_specs": [
+      { "label": "Kategori", "value": "PROJELER" },
+      { "label": "TÜR", "value": "Tesis" },
+      { "label": "TİP", "value": "Maldaner S" }
+    ],
+    "sub_parts": []
+  },
+  {
+    "id": "perlit-patlatma-unitesi",
+    "name": "Perlit Patlatma Ünitesi - REVIZE",
+    "thumbnail": "images/Perlit Patlatma Ünitesi Genel Görünüm_Render_001.JPG",
+    "model_path": "models/PROJELER/Perlit Patlatma Ünitesi/Perlit Patlatma Ünitesi Genel Görünüm.glb",
+    "tech_specs": [
+      { "label": "TÜR", "value": "Perlit Patlatma Ünitesi" },
+      { "label": "KAPASİTE", "value": "3MW" },
+      { "label": "AÇIKLAMA", "value": "Sistem üniteden aldığı ~200°C sıcak hava ile daha verimli bir yanma gerçekleştirilir." }
+    ],
+    "sub_parts": []
+  },
+  {
+    "id": "tundish-kurutma-istasyonu",
+    "name": "Tundish Kurutma İstasyonu - REVIZE",
+    "thumbnail": "images/Tundish Kurutma İstasyonu Genel Görünüm_Render_002.jpg",
+    "model_path": "models/PROJELER/Tundish Kurutma İstasyonu/Tundish Kurutma İstasyonu Genel Görünüm.glb",
+    "tech_specs": [
+      { "label": "TÜR", "value": "Tundish Isıtma & Kurutma İstasyonu" },
+      { "label": "AÇIKLAMA", "value": "İşletmenin ihtiyaç duyduğu özelliklerde sistem anahtar teslim şekilde projelendirilerek imal edilip devreye alınır." }
+    ],
+    "sub_parts": []
+  }
+]
