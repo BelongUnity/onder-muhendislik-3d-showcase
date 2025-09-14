@@ -90,10 +90,13 @@ jspm_packages/
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
 
-# Project specific - Large asset files
-public/images/
-public/models/
-public/sounds/
+# Project specific - Large asset files (3D models and product images only)
+public/images/*.jpg
+public/images/*.JPG
+public/images/*.png
+public/images/*.PNG
+public/models/*.glb
+public/models/*.GLB
 
 # Keep directory structure but ignore content
 public/images/.gitkeep
