@@ -1,154 +1,21 @@
 [
   {
-    "id": "hauck-bbg-2106",
-    "name": "HAUCK BBG",
-    "thumbnail": "models/BBG/HAUCK BBG 2106.jpg",
-    "model_path": "models/BBG/HAUCK BBG 2106.glb",
+    "id": "test-yakici-urunu",
+    "name": "Test Yakıcı Ürünü",
+    "thumbnail": "images/test-burner.jpg",
+    "model_path": "models/test/test-burner.glb",
     "tech_specs": [
-      { "label": "AÇIKLAMA", "value": "820 kW'tan 32.530 kW'a kadar güç seçenekleriyle sunulur, refrakter yanma odası sayesinde düşük bakım maliyeti ve uzun çalışma ömrü sağlar, 482°C'ye kadar ısıtılmış ön hava kullanılabilir, farklı pilot yakıcılara kolayca entegre edilebilir." }
-    ],
-    "sub_parts": []
-  },
-  {
-    "id": "brulor-bic-125hb-200-235",
-    "name": "Brülör BIC",
-    "thumbnail": "models/BIC/70.26.145 Brülör BIC 125HB 200_235.jpg",
-    "model_path": "models/BIC/70.26.145 Brülör BIC 125HB 200_235.glb",
-    "tech_specs": [
-      { "label": "AÇIKLAMA", "value": "Seramik namlu sayesinde 1450°C'ye kadar işletme sıcaklığına uygundur, farklı nozul geometrilerine sahip seramik namlular ile özel proseslere uyum sağlar, hızlı alev uygulamaları sayesinde homojen sıcaklık dağılımı sunar, gövde izolasyonsuz kullanımda 450°C'ye, izolasyonlu kullanımda 600°C'ye kadar ön ısıtılmış yakma havası kullanılabilir." },
+      { "label": "AÇIKLAMA", "value": "Bu bir test yakıcı ürünüdür. Gerçek yakıcı bilgileri buraya eklenecektir." },
       { "label": "SERTİFİKASYON", "value": "EAC" }
     ],
     "sub_parts": [
       {
-        "id": "brulor-bic-125hb-200-235-ic-aksam",
-        "name": "İç Aksam",
-        "model_path": "models/BIC/İç Aksam Komple Montaj BIC 125HB 200_235.glb",
+        "id": "test-yakici-sub-part-1",
+        "name": "Test Yakıcı Alt Parça",
+        "model_path": "models/test/test-burner-sub.glb",
         "tech_specs": [
-          { "label": "AÇIKLAMA", "value": "Arkın oluştuğu, alev izlemesinin yapıldığı ve hava/yakıt karışımının uygun şekilde sağlandığı yerdir." }
+          { "label": "AÇIKLAMA", "value": "Bu test yakıcı alt parçasıdır. Gerçek alt parça bilgileri buraya eklenecektir." }
         ]
-      },
-      {
-        "id": "brulor-bic-125hb-200-235-alev-borusu",
-        "name": "Uzatma Namlusu",
-        "model_path": "models/BIC/73.06.020 Alev Borusu Seti BIO 125L200.glb",
-        "tech_specs": [
-          { "label": "AÇIKLAMA", "value": "Yakıcı alevinin doğru pozisyonda olması için uzatma namlusu uygun ölçüde kullanılır." }
-        ]
-      },
-      {
-        "id": "brulor-bic-125hb-200-235-yedek-govde",
-        "name": "Yedek Gövde",
-        "model_path": "models/BIC/50.61.025 Yedek Gövde BIO 125.glb",
-        "tech_specs": [
-          { "label": "AÇIKLAMA", "value": "İç aksam ve hava girişini dahil ederek brülörün sisteme bağlandığı ana gövdedir." }
-        ]
-      },
-      {
-        "id": "brulor-bic-125hb-200-235-tsc",
-        "name": "TSC Silisyum Karbür Namlu",
-        "model_path": "models/BIC/TSC 125B075-300_35 Si-1500.glb",
-        "tech_specs": [
-          { "label": "AÇIKLAMA", "value": "1500°C sıcaklığa kadar dayanabilen silisyum karbür namlu." }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "bio-100-hb-100-35",
-    "name": "Brülör BIO",
-    "thumbnail": "models/BIO/70.03.100 BIO 65 HB 100_35.jpg",
-    "model_path": "models/BIO/70.03.100 BIO 65 HB 100_35.glb",
-    "tech_specs": [
-      { "label": "AÇIKLAMA", "value": "Farklılaştırılabilir iç aksam seçenekleriyle çeşitli proseslere geniş çözüm yelpazesi sunar, farklı alev blokları sayesinde farklı alev şekilleri oluşturulabilir, fırın yalıtım kalınlığına uygun namlu ölçülerinde imal edilebilir." },
-      { "label": "SERTİFİKASYON", "value": "EAC" }
-    ],
-    "sub_parts": [
-      {
-        "id": "brulor-bio-100-hb-100-35-ic-aksam",
-        "name": "İç Aksam",
-        "model_path": "models/BIO/İç Aksam BIO 65 HB 100_35.glb",
-        "tech_specs": [
-          { "label": "AÇIKLAMA", "value": "" }
-        ]
-      },
-      {
-        "id": "brulor-bio-100-hb-100-35-alev-borusu",
-        "name": "Uzatma Namlusu",
-        "model_path": "models/BIO/73.03.010 Alev Borusu Seti BIO 65L100.glb",
-        "tech_specs": [
-          { "label": "AÇIKLAMA", "value": "" }
-        ]
-      },
-      {
-        "id": "brulor-bio-100-hb-100-35-yedek-govde",
-        "name": "Yedek Gövde",
-        "model_path": "models/BIO/50.61.010 Yedek Gövde BIO 65.glb",
-        "tech_specs": [
-          { "label": "AÇIKLAMA", "value": "" }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "brulor-zio-165hb-100-35",
-    "name": "Brülör ZIO",
-    "thumbnail": "models/ZIO/70.08.100 Brülör ZIO 165HB 100_35.jpg",
-    "model_path": "models/ZIO/70.08.100 Brülör ZIO 165HB 100_35.glb",
-    "tech_specs": [
-      { "label": "AÇIKLAMA", "value": "Farklılaştırılabilir iç aksam seçenekleriyle çeşitli proseslere geniş çözüm yelpazesi sunar, farklı alev blokları sayesinde farklı alev şekilleri oluşturulabilir, fırın yalıtım kalınlığına uygun namlu ölçülerinde imal edilebilir." },
-      { "label": "SERTİFİKASYON", "value": "EAC" }
-    ],
-    "sub_parts": [
-      {
-        "id": "brulor-zio-165hb-100-35-ic-aksam",
-        "name": "İç Aksam",
-        "model_path": "models/ZIO/70.08.100 Brülör ZIO 165HB 100_35 İç Aksam.glb",
-        "tech_specs": [
-          { "label": "AÇIKLAMA", "value": "" }
-        ]
-      },
-      {
-        "id": "brulor-zio-165hb-100-35-alev-borusu",
-        "name": "Alev Borusu",
-        "model_path": "models/ZIO/73.08.010 Alev Borusu Seti ZIO 165L100.glb",
-        "tech_specs": [
-          { "label": "AÇIKLAMA", "value": "" }
-        ]
-      },
-      {
-        "id": "brulor-zio-165hb-100-35-yedek-govde",
-        "name": "Yedek Gövde",
-        "model_path": "models/ZIO/50.61.035 Yedek Gövde ZIO 165 Yedek Gövde.glb",
-        "tech_specs": [
-          { "label": "AÇIKLAMA", "value": "" }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "Ecomax 5MB545",
-    "name": "ECOMAX",
-    "thumbnail": "models/ECOMAX/Ecomax 5MB545_250P0.jpg",
-    "model_path": "models/ECOMAX/Ecomax 5MB545_250P0.glb",
-    "tech_specs": [
-      { "label": "AÇIKLAMA", "value": "Doğrudan ve radyant tüp ısıtma için kullanılan ECOMAX brülörleri, dahili hava ön ısıtması sayesinde 650 °C'ye kadar ekonomik ve enerji tasarruflu çalışma sağlar. Yüksek brülör impulsu sayesinde fırın içinde eşit sıcaklık dağılımı elde edilirken, 25 ila 500 kW arasında 7 farklı boyut seçeneği mevcuttur. Seramik burled tüp rekuperatör veya dökme çelik oluklu tüp rekuperatör ile yüksek verimlilik sunan bu brülörler, kendi ısısını geri kazanarak fırın sistemlerini ON/OFF aralıklı modda ısıtmak için kullanılır. Sıcak baca gazları, brülöre entegre edilmiş seramik veya metalik ısı eşanjöründen geçirilerek ters yönde akan soğuk yanma havasını ısıtır ve uygulamaya bağlı olarak yaklaşık 650 °C'ye kadar hava ön ısıtma sıcaklığına ulaşılabilir." },
-      { "label": "SERTİFİKASYON", "value": "EAC" }
-    ],
-    "sub_parts": [
-      {
-        "id": "ecomax-5mb545-250p0-1",
-        "name": "ECOMAX 3M",
-        "model_path": "models/ECOMAX/Ecomax 5MB545_250P0ss.glb"
-      },
-      {
-        "id": "ejektor",
-        "name": "Ejektör",
-        "model_path": "models/ECOMAX/Ejektor.glb"
-      },
-      {
-        "id": "reku",
-        "name": "Reküperatör",
-        "model_path": "models/ECOMAX/Reku.glb"
       }
     ]
   }
